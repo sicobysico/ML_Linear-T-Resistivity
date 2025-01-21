@@ -1,4 +1,4 @@
-# Machine Learning Modeling for $T$-Linear Resistivity in Holographic Duality
+# Machine Learning Modeling for $T$-Linear Resistivity
 We add the ancillary Mathematica file about data-driven dilaton potentials:
 1. Potentials with different slope of resistivity
 2. Potentials with residual resistivity
