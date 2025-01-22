@@ -1,7 +1,7 @@
 # Machine Learning Modeling for $T$-Linear Resistivity
 We add the ancillary Mathematica file about data-driven dilaton potentials:
-1. Potentials with different slope of resistivity
-2. Potentials with residual resistivity
+1. Potentials with varying resistivity slopes ($\bar{A}$)
+2. Potentials with varying residual resistivity ($\rho_0$)
 
 ---
 :gift:  MATHEMATICA: [DOWNLOAD](https://github.com/sicobysico/ML_Linear-T-Resistivity/archive/refs/heads/main.zip)
